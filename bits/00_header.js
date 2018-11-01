@@ -1,5 +1,6 @@
 /* xlsx.js (C) 2013-2020 SheetJS -- http://sheetjs.com */
 /* */
+/* */
 /* vim: set ts=2: */
 /*jshint -W041 */
 /*jshint funcscope:true, eqnull:true */
