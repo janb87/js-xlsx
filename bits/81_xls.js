@@ -1,4 +1,3 @@
-/* [MS-OLEDS] 2.3.8 CompObjStream */
 function parse_compobj(obj) {
 	var v = {};
 	var o = obj.content;
